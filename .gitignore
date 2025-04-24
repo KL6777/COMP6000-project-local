@@ -75,3 +75,4 @@ crashlytics-build.properties
 
 #
 Assets/Plugins/all_together/Mistral-7B-Instruct-v0.3
+project_escape/Assets/Plugins/all_together/Llama-3.2-1B-Instruct/model.safetensors
